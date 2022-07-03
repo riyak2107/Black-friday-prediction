@@ -70,7 +70,7 @@ print("Root mean sqaure error : ",np.sqrt(mean_squared_error(y_test, y_predf)))
 print("R2 score:", r2_score(y_test, y_predf))
 
 '''
-OUTPUT :
+OUTPUT 
 Random forest regression 
 Root mean sqaure error :  3000.550507920106
 R2 score: 0.6444868034759783
